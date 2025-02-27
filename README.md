@@ -2,4 +2,4 @@
 
 Automated Testing in JS IT Academy
 
-Add a new creat file
+Create in file 3 main
