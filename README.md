@@ -3,3 +3,5 @@
 Automated Testing in JS IT Academy
 
 Creat read me file
+
+hello git
